@@ -19,3 +19,5 @@ Web site will be available in http://localhost:3000
 Open multiple browsers, add an username and room name 
 
 Start chatting !
+
+- Project PPT View Link [Canva](https://www.canva.com/design/DAF0EG50_S4/XcCviDgOhtmXTagcqawztA/edit?utm_content=DAF0EG50_S4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
